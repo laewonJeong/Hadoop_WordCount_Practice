@@ -1,5 +1,5 @@
 # 🐘 **Hadoop WordCount Practice**
-Hadoop MapReduce를 이용한 wordcount 실습 레포지토리
+Hadoop MapReduce를 이용한 wordcount 실습
 
 자세한 내용은 블로그에 기록 👉 [[Hadoop] Hadoop MapReduce를 이용한 Word Count 실습](https://laewonjeong.tistory.com/33)
 <br></br>
